@@ -1,0 +1,214 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Skip to content" [ref=e3] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=e4]:
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - link "+91 99529 64400" [ref=e10] [cursor=pointer]:
+            - /url: tel:+91%2099529%2064400
+          - generic [ref=e13]: "|"
+          - link "Hirenexatechnologies@gmail.com" [ref=e15] [cursor=pointer]:
+            - /url: "#"
+        - link "Request a Free Demo" [ref=e19] [cursor=pointer]:
+          - /url: https://hirenexa.org/contact-us/
+      - banner [ref=e22]:
+        - generic [ref=e24]:
+          - link [ref=e27] [cursor=pointer]:
+            - /url: /
+          - navigation [ref=e28]:
+            - navigation "Menu" [ref=e30]:
+              - list [ref=e31]:
+                - listitem [ref=e32]:
+                  - link "Home" [ref=e33] [cursor=pointer]:
+                    - /url: https://hirenexa.org/
+                - listitem [ref=e34]:
+                  - link "About Us" [ref=e35] [cursor=pointer]:
+                    - /url: https://hirenexa.org/about-us/
+                - listitem [ref=e36]:
+                  - link "Courses" [ref=e37] [cursor=pointer]:
+                    - /url: https://hirenexa.org/courses/
+                - listitem [ref=e38]:
+                  - generic [ref=e39]: Placement & Resources
+                - listitem [ref=e43]:
+                  - link "Contact Us" [ref=e44] [cursor=pointer]:
+                    - /url: https://hirenexa.org/contact-us/
+    - main [ref=e45]:
+      - article [ref=e50]:
+        - generic [ref=e53]:
+          - generic [ref=e59]:
+            - generic [ref=e60]:
+              - generic [ref=e62]:
+                - img "🎓" [ref=e63]
+                - text: Chennai's Leading IT Training Institute
+              - heading "Launch Your IT Career With Expert Training" [level=1] [ref=e65]
+              - paragraph [ref=e67]: HireNexa Institute provides industry-relevant courses with expert instructors, offering practical training to help you advance in your IT career.
+              - generic [ref=e68]:
+                - link "Explore Courses" [ref=e70] [cursor=pointer]:
+                  - /url: https://hirenexa.org/courses/
+                - link "Book Free Demo" [ref=e77] [cursor=pointer]:
+                  - /url: https://hirenexa.org/contact-us/
+              - generic [ref=e83]:
+                - generic [ref=e84]:
+                  - paragraph [ref=e86]: 20K+
+                  - paragraph [ref=e88]: Students
+                - generic [ref=e89]:
+                  - paragraph [ref=e91]: 1500+
+                  - paragraph [ref=e93]: Hiring Partners
+                - generic [ref=e94]:
+                  - paragraph [ref=e96]: 12+
+                  - paragraph [ref=e98]: Courses
+            - generic [ref=e99]:
+              - generic [ref=e103]:
+                - paragraph [ref=e105]: 20K+
+                - paragraph [ref=e107]: Happy Students
+              - generic [ref=e108]:
+                - paragraph [ref=e110]: 1500+
+                - paragraph [ref=e112]: Hiring Partners
+          - generic [ref=e114]:
+            - generic [ref=e115]:
+              - paragraph [ref=e117]: 20,000+
+              - paragraph [ref=e119]: Success Stories
+            - generic [ref=e120]:
+              - paragraph [ref=e122]: 1,500+
+              - paragraph [ref=e124]: Hiring Companies
+            - generic [ref=e125]:
+              - paragraph [ref=e127]: 90%
+              - paragraph [ref=e129]: Hands-on Training
+            - generic [ref=e130]:
+              - paragraph [ref=e132]: 12+
+              - paragraph [ref=e134]: Courses Offered
+          - generic [ref=e136]:
+            - heading "Why Choose HireNexa?" [level=2] [ref=e138]
+            - paragraph [ref=e140]: We provide everything you need to kickstart and accelerate your IT career
+            - generic [ref=e141]:
+              - generic [ref=e142]:
+                - heading "Proven Results & Strong Network" [level=3] [ref=e150]
+                - paragraph [ref=e152]: 20,000+ success stories backed by a Pan-India alumni community
+              - generic [ref=e153]:
+                - heading "1:1 Mentorship Support" [level=3] [ref=e161]
+                - paragraph [ref=e163]: Dedicated doubt-solving for complete clarity
+              - generic [ref=e164]:
+                - heading "Placement-Focused Approach" [level=3] [ref=e172]
+                - paragraph [ref=e174]: 1500+ hiring companies with complete support to land your dream IT job
+              - generic [ref=e175]:
+                - heading "Practical Learning That Works" [level=3] [ref=e183]
+                - paragraph [ref=e185]: 90% hands-on training with real-world projects for job-ready skills
+              - generic [ref=e186]:
+                - heading "Multi-Domain Career Preparation" [level=3] [ref=e194]
+                - paragraph [ref=e196]: Get trained across Data, Cloud, Development, AI, Marketing & more
+              - generic [ref=e197]:
+                - heading "Career & Profile Building Support" [level=3] [ref=e205]
+                - paragraph [ref=e207]: Resume, portfolio, mock interviews + globally recognized certifications
+          - generic [ref=e209]:
+            - heading "Our Featured Courses" [level=2] [ref=e211]
+            - paragraph [ref=e213]: Industry-relevant courses designed to make you job-ready
+            - generic [ref=e214]:
+              - link [ref=e215] [cursor=pointer]:
+                - /url: "#"
+                - img "🧪" [ref=e218]
+                - generic [ref=e219]:
+                  - heading "Software Testing" [level=3] [ref=e221]
+                  - paragraph [ref=e223]: Learn More →
+              - link [ref=e224] [cursor=pointer]:
+                - /url: "#"
+                - img "🎭" [ref=e227]
+                - generic [ref=e228]:
+                  - heading "Playwright" [level=3] [ref=e230]
+                  - paragraph [ref=e232]: Learn More →
+              - link [ref=e233] [cursor=pointer]:
+                - /url: "#"
+                - img "🤖" [ref=e236]
+                - generic [ref=e237]:
+                  - heading "AI" [level=3] [ref=e239]
+                  - paragraph [ref=e241]: Learn More →
+              - link [ref=e242] [cursor=pointer]:
+                - /url: "#"
+                - img "📊" [ref=e245]
+                - generic [ref=e246]:
+                  - heading "Data Analytics" [level=3] [ref=e248]
+                  - paragraph [ref=e250]: Learn More →
+              - link [ref=e251] [cursor=pointer]:
+                - /url: "#"
+                - img "⚙️" [ref=e254]
+                - generic [ref=e255]:
+                  - heading "Data Engineering" [level=3] [ref=e257]
+                  - paragraph [ref=e259]: Learn More →
+              - link [ref=e260] [cursor=pointer]:
+                - /url: "#"
+                - img "💻" [ref=e263]
+                - generic [ref=e264]:
+                  - heading "Fullstack" [level=3] [ref=e266]
+                  - paragraph [ref=e268]: Learn More →
+            - link "View All Courses" [ref=e271] [cursor=pointer]:
+              - /url: https://hirenexa.org/courses/
+          - generic [ref=e278]:
+            - heading "Kickstart Your Tech Career Today" [level=2] [ref=e280]
+            - paragraph [ref=e282]: Get trained by industry experts with 100% placement assistance
+            - link "Book a Free Demo" [ref=e284] [cursor=pointer]:
+              - /url: https://hirenexa.org/contact-us/
+          - generic [ref=e291]:
+            - heading "What Our Students Say" [level=2] [ref=e293]
+            - paragraph [ref=e295]: Hear from our successful alumni
+            - generic [ref=e296]:
+              - generic [ref=e297]:
+                - paragraph [ref=e299]: "\"HireNexa transformed my career. The hands-on training and placement support helped me land a great job within weeks of completing the course.\""
+                - generic [ref=e300]:
+                  - paragraph [ref=e302]: Rahul K.
+                  - paragraph [ref=e304]: AWS & DevOps
+              - generic [ref=e305]:
+                - paragraph [ref=e307]: "\"The mentorship at HireNexa is unparalleled. My mentor was always available for doubts and guided me through every step of my learning journey.\""
+                - generic [ref=e308]:
+                  - paragraph [ref=e310]: Priya S.
+                  - paragraph [ref=e312]: Data Analytics
+              - generic [ref=e313]:
+                - paragraph [ref=e315]: "\"I highly recommend HireNexa for anyone looking to break into IT. The practical projects gave me real confidence during interviews.\""
+                - generic [ref=e316]:
+                  - paragraph [ref=e318]: Arun M.
+                  - paragraph [ref=e320]: Fullstack
+    - contentinfo [ref=e321]:
+      - contentinfo [ref=e322]:
+        - generic [ref=e323]:
+          - generic [ref=e324]:
+            - link [ref=e327] [cursor=pointer]:
+              - /url: /
+            - paragraph [ref=e329]: Your gateway to a successful IT career. Industry-leading training with placement support.
+          - generic [ref=e330]:
+            - heading "Quick Links" [level=4] [ref=e332]
+            - generic [ref=e333]:
+              - link "Home" [ref=e336] [cursor=pointer]:
+                - /url: /
+              - link "Courses" [ref=e339] [cursor=pointer]:
+                - /url: /courses
+              - link "Placement" [ref=e342] [cursor=pointer]:
+                - /url: /placement
+              - link "Corporate Training" [ref=e345] [cursor=pointer]:
+                - /url: /corporate
+              - link "Masters Program" [ref=e348] [cursor=pointer]:
+                - /url: /masters
+              - link "About Us" [ref=e351] [cursor=pointer]:
+                - /url: /about
+              - link "Contact Us" [ref=e354] [cursor=pointer]:
+                - /url: /contact
+          - generic [ref=e355]:
+            - heading "Popular Courses" [level=4] [ref=e357]
+            - generic [ref=e358]:
+              - generic [ref=e359]: Software Testing
+              - generic [ref=e361]: Fullstack Development
+              - generic [ref=e363]: AWS & DevOps
+              - generic [ref=e365]: Data Analytics
+              - generic [ref=e367]: AI & Machine Learning
+          - generic [ref=e369]:
+            - heading "Contact Info" [level=4] [ref=e371]
+            - generic [ref=e372]:
+              - link "+91 99529 64400" [ref=e374] [cursor=pointer]:
+                - /url: "#"
+              - link "Hirenexatechnologies@gmail.com" [ref=e378] [cursor=pointer]:
+                - /url: "#"
+              - generic [ref=e381]: No. 2/45, Rethik Tower, Chetty Street, Porur, Chennai – 600116
+        - generic [ref=e383]: © 2026 HireNexa Institute. All rights reserved.
+  - link [aria-hidden] [ref=e386] [cursor=pointer]:
+    - /url: "#wrapper"
+  - button "Scroll to top" [ref=e387] [cursor=pointer]
+  - generic [ref=e388] [cursor=pointer]
+  - generic [ref=e391]: desktop
