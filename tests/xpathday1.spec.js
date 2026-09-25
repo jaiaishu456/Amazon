@@ -160,26 +160,26 @@
 
 
 
-// import {test} from '@playwright/test'
-// test('Amazon test',async({page})=>{
-//     await page.goto("https://www.amazon.in/")
-//     await page.getByRole('searchbox',{name: 'Search Amazon.in'}).fill('Iphone 17')
-//     const firstSuggestion =  page.locator('//div[@class="left-pane-results-container"]//div[@id]').first()
-//     await firstSuggestion.click()
-//     await page.waitForTimeout(2000)
-//     const iPhone17Rating =  page.locator ('//div[@data-cy="reviews-block"]//span[normalize-space()="4.6"] /ancestor::div[@role="listitem"][1] [.//div[@data-cy="title-recipe"][contains(.,"iPhone 17")]]')
+import {test} from '@playwright/test'
+test('Amazon test',async({page})=>{
+    await page.goto("https://www.amazon.in/")
+    await page.getByRole('searchbox',{name: 'Search Amazon.in'}).fill('Iphone 17')
+    const firstSuggestion =  page.locator('//div[@class="left-pane-results-container"]//div[@id]').first()
+    await firstSuggestion.click()
+    await page.waitForTimeout(2000)
+    const iPhone17Rating =  page.locator ('//div[@data-cy="reviews-block"]//span[normalize-space()="4.6"] /ancestor::div[@role="listitem"][1] [.//div[@data-cy="title-recipe"][contains(.,"iPhone 17")]]')
     
-//     const productName =await iPhone17Rating.count()
+    const productName =await iPhone17Rating.count()
 
      
 
-//     console.log("iPhone 17 Rating :",productName)
+    console.log("iPhone 17 Rating :",productName)
 
-// })
+})
 
 
 
-import {test} from ''
+
 
 
 

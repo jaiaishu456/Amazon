@@ -73,28 +73,28 @@
 
 // })
 
-// import {test} from '@playwright/test'
-// test('Frame Testing 2',async({page})=>{
-//     await page.goto("https://www.hyrtutorials.com/p/frames-practice.html")
-//     const frame1 = page.frameLocator('[id="frm2"]')
-//     await frame1.locator('#firstName').fill('Jai')
-//     await frame1.locator('#lastName').fill('Smarter')
-//     await frame1.locator('#malerb').click()
-//     await frame1.locator('#englishchbx').click()
-//     await frame1.locator('#email').fill('jai.smarter@example.com')
+import {test} from '@playwright/test'
+test('Frame Testing 2',async({page})=>{
+    await page.goto("https://www.hyrtutorials.com/p/frames-practice.html")
+    const frame1 = page.frameLocator('[id="frm2"]')
+    await frame1.locator('#firstName').fill('Jai')
+    await frame1.locator('#lastName').fill('Smarter')
+    await frame1.locator('#malerb').click()
+    await frame1.locator('#englishchbx').click()
+    await frame1.locator('#email').fill('jai.smarter@example.com')
 
-// })
+})
 
 
 // frame 3_2
 
 
-import { test } from '@playwright/test'
-test('Frame 3 Testing', async ({ page }) => {
-    await page.goto("https://www.hyrtutorials.com/p/frames-practice.html")
-    const frame3_2 = page.frameLocator('')
+// import { test } from '@playwright/test'
+// test('Frame 3 Testing', async ({ page }) => {
+//     await page.goto("https://www.hyrtutorials.com/p/frames-practice.html")
+//     const frame3_2 = page.frameLocator('')
 
-})
+// })
 
 
 
